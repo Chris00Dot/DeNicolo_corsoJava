@@ -1,3 +1,3 @@
 Benvenuto,
 
-Questo è il mio repository del corso Java Back-End che sto frequentando con Itconsulting!
+Questo è il repository del corso Java Back-End organizzato da Itconsulting, che sto frequentando!
