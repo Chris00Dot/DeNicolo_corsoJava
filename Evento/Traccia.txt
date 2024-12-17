@@ -1,0 +1,13 @@
+Gestione degli Eventi
+
+Descrizione: Un'applicazione per la gestione di eventi come concerti, conferenze, e workshop. Gli utenti possono creare e registrarsi agli eventi.
+
+Funzionalità:
+
+Creazione, modifica e cancellazione di eventi.
+
+Registrazione agli eventi da parte degli utenti.
+
+Visualizzazione degli eventi per data e categoria.
+
+Tecnologie: Spring Boot, Spring MVC, Spring Security (per autenticazione), Thymeleaf, MySQL.
